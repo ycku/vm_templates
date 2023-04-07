@@ -1,5 +1,6 @@
 # vm_templates
 - 透過 ssh 遠端執行腳本
+- 只需要基本的 sh script 功能 
 
 ## Requirement
 ### 1. 設定好 sudoer
